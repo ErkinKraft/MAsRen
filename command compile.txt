@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import time --hidden-import os --hidden-import art MAsRen.py
